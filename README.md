@@ -1,5 +1,3 @@
-Creating an age calculator using HTML, CSS, and JavaScript is a great project idea! Here's a basic structure for your README file:
-
 ```markdown
 # Age Calculator
 
