@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/age-calculator.git
+   git clone https://github.com/mihirdas77/Age-Calculator-.git
 2. Open `index.html` in your browser.
 
 ## Usage
