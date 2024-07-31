@@ -43,16 +43,3 @@ Contributions are what make the open-source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Mihir Das - mihirdas7707@gmail.com
-
-Project Link: [https://github.com/your_username/age-calculator.git](https://github.com/your_username/age-calculator.git)
-```
-
-Make sure to replace placeholders like `your_username`, `link_to_demo`, and `Your Name` with appropriate values. This README provides a brief overview of your project, instructions for getting started, usage guidelines, contribution guidelines, license information, and contact details.
