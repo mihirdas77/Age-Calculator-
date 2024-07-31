@@ -1,7 +1,3 @@
-```markdown
-# Age Calculator
-
-This project is an age calculator web application built using HTML, CSS, and JavaScript. It allows users to calculate their age based on the date of birth entered.
 
 ## Demo
 
@@ -26,7 +22,6 @@ To get a local copy up and running follow these simple steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/your_username/age-calculator.git
-   ```
 2. Open `index.html` in your browser.
 
 ## Usage
